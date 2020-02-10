@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name" : "Hồ Văn Long",
+        "tel": "0985512461" ,
+        "permission":2
+    },
+    {
+        "id":2,
+        "name" : "Trần Đức Lương",
+        "tel": "0395557771" ,
+        "permission":1
+    },
+    {
+        "id":3,
+        "name" : "Ngô Bá Khá",
+        "tel": "0384568776" ,
+        "permission":3
+    },
+    {
+        "id":4,
+        "name" : "Lê Văn Tuân",
+        "tel": "0395563446" ,
+        "permission":1
+    },
+    {
+        "id":5,
+        "name" : "Vũ Thị Cẩm Nhung",
+        "tel": "0967123456" ,
+        "permission":2
+    }
+]
